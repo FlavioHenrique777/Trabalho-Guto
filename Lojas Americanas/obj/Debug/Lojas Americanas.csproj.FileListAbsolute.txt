@@ -1,0 +1,61 @@
+E:\Lojas Americanas\Lojas Americanas\bin\Debug\Lojas Americanas.exe.config
+E:\Lojas Americanas\Lojas Americanas\bin\Debug\Lojas Americanas.exe
+E:\Lojas Americanas\Lojas Americanas\bin\Debug\Lojas Americanas.pdb
+E:\Lojas Americanas\Lojas Americanas\obj\Debug\Lojas Americanas.csprojAssemblyReference.cache
+E:\Lojas Americanas\Lojas Americanas\obj\Debug\Lojas_Americanas.Form1.resources
+E:\Lojas Americanas\Lojas Americanas\obj\Debug\Lojas_Americanas.Properties.Resources.resources
+E:\Lojas Americanas\Lojas Americanas\obj\Debug\Lojas Americanas.csproj.GenerateResource.cache
+E:\Lojas Americanas\Lojas Americanas\obj\Debug\Lojas Americanas.csproj.CoreCompileInputs.cache
+E:\Lojas Americanas\Lojas Americanas\obj\Debug\Lojas Americanas.exe
+E:\Lojas Americanas\Lojas Americanas\obj\Debug\Lojas Americanas.pdb
+E:\Lojas Americanas\Lojas Americanas\obj\Debug\Lojas_Americanas.frmAjuda.resources
+E:\Lojas Americanas\Lojas Americanas\obj\Debug\Lojas_Americanas.frmCargos.resources
+E:\Lojas Americanas\Lojas Americanas\obj\Debug\Lojas_Americanas.frmClientes.resources
+E:\Lojas Americanas\Lojas Americanas\obj\Debug\Lojas_Americanas.frmProdutos.resources
+E:\Lojas Americanas\Lojas Americanas\obj\Debug\Lojas_Americanas.frmSetores.resources
+E:\Lojas Americanas\Lojas Americanas\obj\Debug\Lojas_Americanas.frmFuncionarios.resources
+C:\Users\Usuario\Desktop\Loja GUTO\Lojas Americanas\obj\Debug\Lojas Americanas.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Loja GUTO\Lojas Americanas\obj\Debug\Lojas_Americanas.Form1.resources
+C:\Users\Usuario\Desktop\Loja GUTO\Lojas Americanas\obj\Debug\Lojas_Americanas.frmAjuda.resources
+C:\Users\Usuario\Desktop\Loja GUTO\Lojas Americanas\obj\Debug\Lojas_Americanas.frmCargos.resources
+C:\Users\Usuario\Desktop\Loja GUTO\Lojas Americanas\obj\Debug\Lojas_Americanas.frmClientes.resources
+C:\Users\Usuario\Desktop\Loja GUTO\Lojas Americanas\obj\Debug\Lojas_Americanas.frmFuncionarios.resources
+C:\Users\Usuario\Desktop\Loja GUTO\Lojas Americanas\obj\Debug\Lojas_Americanas.frmProdutos.resources
+C:\Users\Usuario\Desktop\Loja GUTO\Lojas Americanas\obj\Debug\Lojas_Americanas.frmSetores.resources
+C:\Users\Usuario\Desktop\Loja GUTO\Lojas Americanas\obj\Debug\Lojas_Americanas.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Loja GUTO\Lojas Americanas\obj\Debug\Lojas Americanas.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Loja GUTO\Lojas Americanas\obj\Debug\Lojas Americanas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Loja GUTO\Lojas Americanas\obj\Debug\Lojas Americanas.exe
+C:\Users\Usuario\Desktop\Loja GUTO\Lojas Americanas\obj\Debug\Lojas Americanas.pdb
+D:\Loja SENAC\Lojas Americanas\bin\Debug\Lojas Americanas.exe.config
+D:\Loja SENAC\Lojas Americanas\bin\Debug\Lojas Americanas.exe
+D:\Loja SENAC\Lojas Americanas\bin\Debug\Lojas Americanas.pdb
+D:\Loja SENAC\Lojas Americanas\obj\Debug\Lojas Americanas.csprojAssemblyReference.cache
+D:\Loja SENAC\Lojas Americanas\obj\Debug\Lojas_Americanas.Form1.resources
+D:\Loja SENAC\Lojas Americanas\obj\Debug\Lojas_Americanas.frmAjuda.resources
+D:\Loja SENAC\Lojas Americanas\obj\Debug\Lojas_Americanas.frmCargos.resources
+D:\Loja SENAC\Lojas Americanas\obj\Debug\Lojas_Americanas.frmClientes.resources
+D:\Loja SENAC\Lojas Americanas\obj\Debug\Lojas_Americanas.frmFuncionarios.resources
+D:\Loja SENAC\Lojas Americanas\obj\Debug\Lojas_Americanas.frmProdutos.resources
+D:\Loja SENAC\Lojas Americanas\obj\Debug\Lojas_Americanas.frmSetores.resources
+D:\Loja SENAC\Lojas Americanas\obj\Debug\Lojas_Americanas.Properties.Resources.resources
+D:\Loja SENAC\Lojas Americanas\obj\Debug\Lojas Americanas.csproj.GenerateResource.cache
+D:\Loja SENAC\Lojas Americanas\obj\Debug\Lojas Americanas.csproj.CoreCompileInputs.cache
+D:\Loja SENAC\Lojas Americanas\obj\Debug\Lojas Americanas.exe
+D:\Loja SENAC\Lojas Americanas\obj\Debug\Lojas Americanas.pdb
+C:\Users\Usuario\Documents\Loja SENAC\Lojas Americanas\bin\Debug\Lojas Americanas.exe.config
+C:\Users\Usuario\Documents\Loja SENAC\Lojas Americanas\bin\Debug\Lojas Americanas.exe
+C:\Users\Usuario\Documents\Loja SENAC\Lojas Americanas\bin\Debug\Lojas Americanas.pdb
+C:\Users\Usuario\Documents\Loja SENAC\Lojas Americanas\obj\Debug\Lojas Americanas.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Loja SENAC\Lojas Americanas\obj\Debug\Lojas_Americanas.Form1.resources
+C:\Users\Usuario\Documents\Loja SENAC\Lojas Americanas\obj\Debug\Lojas_Americanas.frmAjuda.resources
+C:\Users\Usuario\Documents\Loja SENAC\Lojas Americanas\obj\Debug\Lojas_Americanas.frmCargos.resources
+C:\Users\Usuario\Documents\Loja SENAC\Lojas Americanas\obj\Debug\Lojas_Americanas.frmClientes.resources
+C:\Users\Usuario\Documents\Loja SENAC\Lojas Americanas\obj\Debug\Lojas_Americanas.frmFuncionarios.resources
+C:\Users\Usuario\Documents\Loja SENAC\Lojas Americanas\obj\Debug\Lojas_Americanas.frmProdutos.resources
+C:\Users\Usuario\Documents\Loja SENAC\Lojas Americanas\obj\Debug\Lojas_Americanas.frmSetores.resources
+C:\Users\Usuario\Documents\Loja SENAC\Lojas Americanas\obj\Debug\Lojas_Americanas.Properties.Resources.resources
+C:\Users\Usuario\Documents\Loja SENAC\Lojas Americanas\obj\Debug\Lojas Americanas.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Loja SENAC\Lojas Americanas\obj\Debug\Lojas Americanas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Loja SENAC\Lojas Americanas\obj\Debug\Lojas Americanas.exe
+C:\Users\Usuario\Documents\Loja SENAC\Lojas Americanas\obj\Debug\Lojas Americanas.pdb
